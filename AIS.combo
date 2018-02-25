@@ -1,29 +1,29 @@
 {
   "data": {
     "name": "AIS data",
-    "href": "demo.luciad.com/data/AIS/India/dynamic.json",
+    "href": "https://demo.luciad.com/data/AIS/India/dynamic.json",
     "indexes": [
       {
         "key": "mmsi",
         "name": "vessel",
-        "href": "static.json",
+        "href": "https://demo.luciad.com/data/AIS/India/static.json",
         "indexes": [
           {
             "key": "type_and_cargo",
             "name": "cargo_type",
-            "href": "demo.luciad.com/data/AIS/India/cargo_type.json"
+            "href": "https://demo.luciad.com/data/AIS/India/cargo_type.json"
           }
         ]
       },
       {
         "key": "source_id",
         "name": "source",
-        "href": "demo.luciad.com/data/AIS/India/sources.json"
+        "href": "https://demo.luciad.com/data/AIS/India/sources.json"
       },
       {
         "key": "flag_code",
         "name": "mid",
-        "href": "demo.luciad.com/data/AIS/India/mids.json"
+        "href": "https://demo.luciad.com/data/AIS/India/mids.json"
       }
     ]
   }
