@@ -10,7 +10,7 @@
         "indexes": [
           {
             "key": "type_and_cargo",
-            "name": "cargo_type",
+            "name": "scargo_type",
             "href": "https://demo.luciad.com/data/AIS/India/cargo_type.json"
           }
         ]
