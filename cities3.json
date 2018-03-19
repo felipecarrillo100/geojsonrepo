@@ -1,0 +1,27 @@
+{ "type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"id":"city_1",
+"geometry":{"type":"Point","coordinates":[-81.521499,41.0804]},
+"geometry_name":"geometry",
+"properties":{"uid":1,"CITY":"Akron","STATE":"OH","TOT_HU":96372,"TOT_POP":223019}
+}
+,
+{
+"type": "Feature",
+"id":"city_2",
+"geometry":{"type":"Point","coordinates":[-106.624636,35.117218]},
+"geometry_name":"geometry",
+"properties":{"uid":2,"CITY":"Albuquerque","STATE":"NM","TOT_HU":166870,"TOT_POP":384736}
+}
+,
+{
+"type": "Feature",
+"id":"city_3",
+"geometry":{"type":"Point","coordinates":[-101.818682,35.20255]},
+"geometry_name":"geometry",
+"properties":{"uid":3,"CITY":"Amarillo","STATE":"TX","TOT_HU":68592,"TOT_POP":157615}
+}
+]
+}
